@@ -1,0 +1,23 @@
+[[source]]
+
+url = "https://pypi.douban.com/simple"
+verify_ssl = true
+name = "pypi"
+
+
+[dev-packages]
+
+
+
+[packages]
+
+django = "<2"
+ipython = "*"
+markdown = "*"
+pygments = "*"
+django-grappelli = "*"
+
+
+[requires]
+
+python_version = "3.6"
